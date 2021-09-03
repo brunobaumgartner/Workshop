@@ -1,2 +1,2 @@
-# Workshot
- Pagina de captura para um workshot
+# Workshop
+ Página de captura para um workshop
